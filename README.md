@@ -15,10 +15,6 @@ Whether you're managing complex industrial battery systems or just balancing you
 - **🧠 Automated Optimization Engine**: Powered by a robust Python FastAPI backend that runs dynamic programming logic to calculate your absolute lowest possible daily cost.
 - **📈 Beautiful, Actionable Analytics**: See your day planned out visually. Recharts powers overlapping area profiles and exact State of Charge (SOC) tracking so you can see your battery reacting to grid price spikes in real-time.
 
-Take a look at it in action! 
-
-![Dashboard Demo](docs/demo.webp)
-
 ---
 
 ## 🚀 Getting Started
